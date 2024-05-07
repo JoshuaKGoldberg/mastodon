@@ -382,7 +382,7 @@ GEM
       reline (>= 0.3.8)
     jmespath (1.6.2)
     json (2.6.3)
-    json-canonicalization (0.3.2)
+    json-canonicalization (0.3.3)
     json-jwt (1.15.3)
       activesupport (>= 4.2)
       aes_key_wrap
@@ -543,7 +543,7 @@ GEM
       activesupport (>= 3.0.0)
     raabro (1.4.0)
     racc (1.7.3)
-    rack (2.2.8)
+    rack (2.2.9)
     rack-attack (6.7.0)
       rack (>= 1.0, < 4)
     rack-cors (2.0.1)
